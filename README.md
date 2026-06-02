@@ -35,7 +35,7 @@ Average Delivery Time	4.2 days
 
 -West and East performed strongly in sales and margin
 -South region underperformed with the lowest profit margin (~9.1%)
-<img width="607" height="340" alt="image" src="https://github.com/user-attachments/assets/64d8e3f6-344a-4a3f-a6ef-13f36caebc21" />
+
 
 
 
@@ -43,7 +43,7 @@ Average Delivery Time	4.2 days
 
 -Top Performers: Copiers, Phones, Accessories
 -Loss Drivers: Tables (-$17.7K), Bookcases, Supplies
-<img width="604" height="340" alt="image" src="https://github.com/user-attachments/assets/08ad4c82-cf1f-48a1-aa1b-4cb388db43c4" />
+
 
 
 
