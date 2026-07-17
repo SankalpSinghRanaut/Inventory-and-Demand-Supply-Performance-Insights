@@ -69,10 +69,11 @@ The company serves four major customer segments across multiple U.S. regions usi
 
 <p align="center">
 
-<img width="90%" src="https://github.com/SankalpSinghRanaut/Inventory-and-Demand-Supply-Performance-Insights/tree/main/Dashboard%20Screenshots">
+<img width="90%" src="https://github.com/SankalpSinghRanaut/Inventory-and-Demand-Supply-Performance-Insights/blob/main/Dashboard%20Screenshots/Screenshot%202025-12-08%20214022.png">
 
 </p>
 
+<a class="s-link" href="https://github.com/SankalpSinghRanaut/Inventory-and-Demand-Supply-Performance-Insights/tree/main/Dashboard%20Screenshots" target="_blank" rel="noopener noreferrer" title="View All">
 ---
 
 # 📈 Project Objectives
